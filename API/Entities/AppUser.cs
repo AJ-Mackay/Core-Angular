@@ -1,5 +1,3 @@
-using System.Diagnostics.Contracts;
-
 namespace API.Entities
 {
     public class AppUser
