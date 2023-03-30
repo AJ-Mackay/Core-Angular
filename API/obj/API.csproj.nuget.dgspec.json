@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj": {}
+    "c:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj": {
+    "c:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectPath": "c:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Paul Mackay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\obj\\",
+        "outputPath": "c:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paul Mackay\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,6 +48,10 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.27.0, )"
             }
           },
           "imports": [
