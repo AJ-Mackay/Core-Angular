@@ -1849,11 +1849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Paul Mackay\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\Paul Mackay\\Desktop\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Paul Mackay\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1863,6 +1863,7 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
