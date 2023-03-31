@@ -22,4 +22,8 @@ export class NavComponent {
     });
   }
 
+  logout() {
+    this.loggedIn = false;
+  }
+
 }
