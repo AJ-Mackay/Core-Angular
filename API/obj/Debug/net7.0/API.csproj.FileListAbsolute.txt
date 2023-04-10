@@ -69,3 +69,5 @@ C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore
 C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
