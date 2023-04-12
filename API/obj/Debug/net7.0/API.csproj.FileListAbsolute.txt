@@ -71,3 +71,6 @@ C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityMo
 C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Data\UserSeedData.json
 C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\CloudinaryDotNet.dll
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\appsettings.json
