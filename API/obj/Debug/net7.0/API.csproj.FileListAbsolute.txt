@@ -74,3 +74,9 @@ C:\Users\Paul Mackay\Desktop\DatingApp\API\obj\Debug\net7.0\scopedcss\bundle\API
 C:\Users\Paul Mackay\Desktop\DatingApp\API\obj\Debug\net7.0\API.csproj.CopyComplete
 C:\Users\Paul Mackay\Desktop\DatingApp\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\Paul Mackay\Desktop\DatingApp\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Paul Mackay\Desktop\DatingApp\API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
