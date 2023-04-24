@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
+using Microsoft.Extensions.Localization;
+
 namespace API.SignalR
 {
     public class PresenceTracker
@@ -47,6 +50,18 @@ namespace API.SignalR
             }
 
             return Task.FromResult(onlineUsers);
+        }
+
+        public static Task<List<string>> GetConnectionsForUser(string username)
+        {
+            List<string> connectionIds;
+
+            lock (OnlineUsers)
+            {
+                connectionIds = OnlineUsers.GetValueOrDefault(username);
+            }
+
+            return Task.FromResult(connectionIds);
         }
     }
 }
